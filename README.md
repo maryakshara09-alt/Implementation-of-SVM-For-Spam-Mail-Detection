@@ -17,9 +17,9 @@ To write a program to implement the SVM For Spam Mail Detection.
 4.Calculate Y_Pred and accuracy. 5.Print all the outputs. 6.End the Program.
 ## Program:
 
-Developed by: RAGAVAN S 
+Developed by: MARY AKSHARA S
 
-RegisterNumber: 212225230220
+RegisterNumber: 212225230169
 
 Program to implement the SVM For Spam Mail Detection..
 
@@ -113,24 +113,7 @@ for msg in test_messages:
 ## Output:
 DATASET SHAPE:
 
-<img width="1768" height="584" alt="image" src="https://github.com/user-attachments/assets/60d48175-9c51-41ab-990b-e256b0111240" />
-
-
-CLASS DISTRIBUTION:
-
-<img width="513" height="267" alt="image" src="https://github.com/user-attachments/assets/c7192da9-137e-455c-afa5-61c082ced4e0" />
-
-
-CLASSIFICATION REPORT:
-
-<img width="1137" height="405" alt="image" src="https://github.com/user-attachments/assets/78f2a8e2-7aa7-41d7-95c2-25427e0afcdb" />
-
-
-SAMPLE:
-
-<img width="1803" height="334" alt="image" src="https://github.com/user-attachments/assets/b77f5ec7-7f45-461b-a924-fc3a2f266e81" />
-
-
+<img width="280" height="390" alt="Screenshot 2026-05-21 082156" src="https://github.com/user-attachments/assets/97d7f5fb-7b66-4f89-9914-98f3f48bd38c" />
 
 ## Result:
 Thus the program to implement the SVM For Spam Mail Detection is written and verified using python programming.
